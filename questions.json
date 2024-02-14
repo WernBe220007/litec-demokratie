@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "title": "Was ist das Datum der Europawahl?",
+            "answers": [
+                "9.Juni.2024",
+                "11.September.2024",
+                "15.August.2024",
+                "7.Dezember.2024"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "title": "Wie viele Abgeordnete befinden sich im Österreichischen Nationalrat?",
+            "answers": [
+                "52",
+                "293",
+                "183",
+                "392"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "title": "Was bedeutet das Wort \"Demokratie\"?",
+            "answers": [
+                "Die Herrschaft der Wenigen",
+                "Ein System der Unabhängigkeit",
+                "Regierung durch einen Einzelnen",
+                "Das Recht geht vom Volk aus"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "title": "Ab wie viel Jahren darf man in Österreich wählen?",
+            "answers": [
+                "18",
+                "16",
+                "21",
+                "14"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "title": "Wie oft finden in Österreich Nationalratswahlen statt?",
+            "answers": [
+                "Alle 4 Jahre",
+                "Alle 6 Jahre",
+                "Alle 5 Jahre",
+                "Alle 7 Jahre"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "title": "Was ist der Nationalrat?",
+            "answers": [
+                "Die höchste Gerichtsbarkeit",
+                "Eine beratende Versammlung",
+                "Eine der beiden Kammern des Parlaments",
+                "Die exekutive Gewalt"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "title": "Wer ist das Staatsoberhaupt in Österreich?",
+            "answers": [
+                "Bundespräsident",
+                "Kanzler",
+                "Bundeskanzler",
+                "Parlamentspräsident"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "title": "Wie viele Abgeordnete befinden sich im EU-Parlament?",
+            "answers": [
+                "705",
+                "650",
+                "800",
+                "751"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "title": "Wie wird der Österreichische Bundespräsident gewählt?",
+            "answers": [
+                "Durch das Parlament",
+                "Durch eine Direktwahl durch das Volk",
+                "Durch die Landeshauptleute",
+                "Durch eine Ernennung des Nationalrates"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "title": "Was ist eine Besonderheit des Bundesrates im Vergleich zum Nationalrat?",
+            "answers": [
+                "Er vertritt die Bundesländer und hat Mitwirkung bei der Gesetzgebung",
+                "Er wird direkt vom Volk gewählt",
+                "Er hat ausschließlich beratende Funktion",
+                "Er kontrolliert die Regierungsarbeit"
+            ],
+            "correctIndex": 0
+        }
+    ]
+}
